@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    background-color: pink;
+}
+header {
+    width: 100%;
+    background-color: #eaeaea;
+}
+
+.btn {
+    background-color: white;
+    width: 300px;
+    height: 40px;
+}
+
+main {
+    width: 100%;
+    height: 3000px;
+    background-color: #eaeaea;
+}
+
+.alert {
+    background-color: black;
+    color: white !important;
+    text-align: center;
+    border-radius: 0rem !important;
+    letter-spacing: 0.2em;
+    font-weight: 300;
+
+}
+
+.covid-warning{
+    background-color: black !important;
+    border-color: black !important;
+    margin: 0% !important;
+    border-radius: 0rem;
+}
+
+.covid-btn {
+    margin-left: 25px;
+    padding: 5px;
+    width: 200px;
+    letter-spacing: 0.2em;
+}
+
+.header-btn {
+    margin-left: 25px;
+    padding: 5px;
+    width: 200px;
+    letter-spacing: 0.2em;
+    background-color: white;
+}
+
+.header-cards {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: auto;
+    margin-top: auto;
+    padding: 25px;
+}
+
+.logo-card{
+    height: 65px;
+    width: 150px;
+    padding: 10px;
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 40px;
+    background-color: black;
+}
+
+.logo-card p {
+    margin-top: 10px;
+    letter-spacing: 0.2em;
+}
+
+.card2 {
+
+    margin-top: 10px;
+    letter-spacing: 0.2em;
+}
+
+
+.join-btn {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 25px;
+    margin-left: 0px;
+}
+
+.nav-item {
+    margin-left: 25px;
+    color: black !important ;
+    font-size: large;
+    letter-spacing: 0.1em;
+}
+
+.video {
+    height:700px;
+}
+.about-us {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #333333;
+    height:590px;
+}
+
+.about-us h1 {
+    color: white;
+    font-weight: 300;
+    text-align: center; 
+    padding: 50px;
+    letter-spacing: 0.05em;
+}
+
+.about-us-cards {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.about-card-img {
+    height: 250px;
+    width: 300px;
+    background-color: #ececec;
+}
+
+.about-card-txt {
+    width: 300px;
+    color: #ececec;
+    text-align: left;
+    padding-left: 20px;
+    font-weight: 300;
+}
+.about-txt {
+    margin-top: 50px;
+}
+.about-card-txt h2 {
+    font-weight: 300;
+} 
+.about-card-txt a {
+    color: white;
+    font-weight: 400;
+} 
+
+.material-icons {
+    margin-top: 100px;
+    width: 50px;
+    font-size: 40pt !important;
+}
