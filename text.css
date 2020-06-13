@@ -1,0 +1,52 @@
+
+.about-us h1 {
+    color: white;
+    font-weight: 300;
+    text-align: center; 
+    padding: 50px;
+    letter-spacing: 0.05em;
+}
+
+.about-card-txt h2 {
+    font-weight: 300;
+} 
+.about-card-txt a {
+    color: white;
+    font-weight: 400;
+} 
+
+/* PROGRAMS */
+
+.programs h1 {
+    color: #333333;
+    font-weight: 300;
+    text-align: center; 
+    padding: 50px;
+    letter-spacing: 0.05em;
+    padding-bottom: 25px;
+}
+
+.programs p {
+    color: #333333;
+    width: 45%;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.program-section1 h2 {
+    color: #e5e5e5 !important;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20pt;
+}
+
+.program-section1 p{
+    color: #e5e5e5 !important;
+    font-weight: 300;
+    text-align: center;
+    font-size: smaller !important;
+    width: 300px;
+}

@@ -1,0 +1,20 @@
+.pgm-btn-grey {
+    margin-left: 150px;
+    margin-right: auto;
+    padding: 5px;
+    width: 200px;
+    letter-spacing: 0.2em;
+    background-color: #58595b;
+    border: #58595b;
+    color: white;
+}
+
+.pgm-btn {
+    margin-left: 150px;
+    margin-right: auto;
+    padding: 5px;
+    width: 200px;
+    letter-spacing: 0.2em;
+    background-color: white;
+    border: white;
+}

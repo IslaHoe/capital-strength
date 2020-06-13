@@ -1,97 +1,4 @@
-body {
-    margin: 0;
-    background-color: pink;
-}
-header {
-    width: 100%;
-    background-color: #eaeaea;
-}
-
-.btn {
-    background-color: white;
-    width: 300px;
-    height: 40px;
-}
-.container{
-    max-width: 14000px !important; 
-    background-color: #eaeaea;
-    margin: 0px !important;
-    
-}
-main {
-    max-width: 1400px;
-    height: 3000px;
-    background-color: #eaeaea;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.grey-text {
-    color: #333333 !important;
-}
-
-.alert {
-    background-color: black;
-    color: white !important;
-    text-align: center;
-    border-radius: 0rem !important;
-    letter-spacing: 0.2em;
-    font-weight: 300;
-
-}
-
-.covid-warning{
-    background-color: black !important;
-    border-color: black !important;
-    margin: 0% !important;
-    border-radius: 0rem;
-}
-
-.covid-btn {
-    margin-left: 25px;
-    padding: 5px;
-    width: 200px;
-    letter-spacing: 0.2em;
-}
-
-.header-btn {
-    margin-left: 25px;
-    padding: 5px;
-    width: 200px;
-    letter-spacing: 0.2em;
-    background-color: white;
-}
-
-
-.card2 {
-
-    margin-top: 10px;
-    letter-spacing: 0.2em;
-}
-
-
-.join-btn {
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-right: 25px;
-    margin-left: 0px;
-}
-
-.nav-item {
-    margin-left: 5px;
-    color: black !important ;
-    font-size: large;
-    letter-spacing: 0.1em;
-}
-.navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: .25rem
-    ;
-    padding-left: .25rem;
-}
-
-.video {
-    height:700px;
-}
+/* ABOUT US */
 .about-us {
     margin-left: auto;
     margin-right: auto;
@@ -99,20 +6,10 @@ main {
     height:590px;
 }
 
-.about-us h1 {
-    color: white;
-    font-weight: 300;
-    text-align: center; 
-    padding: 50px;
-    letter-spacing: 0.05em;
-}
-
 .about-us-cards {
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-top: auto;
-    margin-bottom: auto;
 }
 
 .about-card-img {
@@ -131,13 +28,6 @@ main {
 .about-txt {
     margin-top: 50px;
 }
-.about-card-txt h2 {
-    font-weight: 300;
-} 
-.about-card-txt a {
-    color: white;
-    font-weight: 400;
-} 
 
 .material-icons {
     margin-top: 100px;
@@ -145,30 +35,13 @@ main {
     font-size: 40pt !important;
 }
 
+/* PROGRAMS */
+
 .programs{
     height: 1200px;
     background-color: white;
 }
-.pgm-btn-grey {
-    margin-left: 150px;
-    margin-right: auto;
-    padding: 5px;
-    width: 200px;
-    letter-spacing: 0.2em;
-    background-color: #58595b;
-    border: #58595b;
-    color: white;
-}
 
-.pgm-btn {
-    margin-left: 150px;
-    margin-right: auto;
-    padding: 5px;
-    width: 200px;
-    letter-spacing: 0.2em;
-    background-color: white;
-    border: white;
-}
 
 .pgm-text-box{
     padding-top: 10%;
@@ -176,23 +49,7 @@ main {
 }
 
 
-.programs h1 {
-    color: #333333;
-    font-weight: 300;
-    text-align: center; 
-    padding: 50px;
-    letter-spacing: 0.05em;
-    padding-bottom: 25px;
-}
 
-.programs p {
-    color: #333333;
-    width: 45%;
-    text-align: center;
-    font-size: 1.5rem;
-    margin-right: auto;
-    margin-left: auto;
-}
 
 .program-section1 {
     width: 1000px;
@@ -204,21 +61,6 @@ main {
     
 }
 
-.program-section1 h2 {
-    color: #e5e5e5 !important;
-    font-weight: 300;
-    text-align: center;
-    padding-top: 30px;
-    font-size: 20pt;
-}
-
-.program-section1 p{
-    color: #e5e5e5 !important;
-    font-weight: 300;
-    text-align: center;
-    font-size: smaller !important;
-    width: 300px;
-}
 
 .pcard1 {
     width: 490px;
@@ -290,6 +132,8 @@ main {
     margin-left: 220px; 
     margin-top: 80px;
 }
+
+
 
 .covid-container {
     height: 360px;
