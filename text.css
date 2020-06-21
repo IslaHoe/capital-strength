@@ -28,7 +28,7 @@
 
 .programs p {
     color: #333333;
-    width: 45%;
+    width: 60%;
     text-align: center;
     font-size: 1.5rem;
     margin-right: auto;
@@ -47,6 +47,13 @@
     color: #e5e5e5 !important;
     font-weight: 300;
     text-align: center;
-    font-size: smaller !important;
-    width: 300px;
+    font-size: 16px;
+    width: 400px;
+}
+
+
+.pcard4 p {
+
+    width: 400px !important;
+    font-size: 16px;
 }

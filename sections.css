@@ -27,6 +27,7 @@
 }
 .about-txt {
     margin-top: 50px;
+    padding: 3.5px;
 }
 
 .material-icons {
@@ -38,13 +39,12 @@
 /* PROGRAMS */
 
 .programs{
-    height: 1200px;
+    height: 1300px;
     background-color: white;
 }
 
 
 .pgm-text-box{
-    padding-top: 10%;
     color: #58595b !important;
 }
 
@@ -88,7 +88,7 @@
     margin-bottom: 20px;
 }
 .pcard2b {
-    height: 301px;
+    height: 290px;
     background-color: #e5e5e5;
     color: #333333;
 }
@@ -113,8 +113,8 @@
     color: #e5e5e5 !important;
     font-weight: 300;
     text-align: center;
-    font-size: smaller !important;
     width: 300px;
+    
 }
 .pcard3 {
     width: 500px;
@@ -206,12 +206,12 @@
 
 .join-container {
     background-color: #333333;
-    height: 620px;
+    height: 520px;
 }
 
 .join-sub-container {
     width: 70%;
-    padding-top: 200px;
+    padding-top: 110px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -283,6 +283,7 @@
 .coaches-cards {
     display: flex;
     justify-content: space-between;
+
 }
 
 .coaches-card1 {
@@ -337,6 +338,9 @@
     font-size: 16pt;
     text-align: center;
     padding-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
 }
 
 .drop-in-btn {
